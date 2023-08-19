@@ -1,5 +1,5 @@
-# MPPT-Metaheuristic-Algorithm-Application
-implement several kinds of metaheuristic algorithm to Photovoltaic Maxium Power Point Tracking(MPPT)   
+# MPPT-Swarm-Algorithm-Application
+implement several kinds of Swarm algorithm to Photovoltaic Maxium Power Point Tracking(MPPT)   
    
 Appreciate model from [roisalhaqq](https://github.com/roisalhaqq/researchpso)  
 #### Why salp swarm algorithm converged faster than particle swarm optimization?
